@@ -1,4 +1,4 @@
-## [Documentation and Reference in the Wiki](https://github.com/Blizzard/katana-assets/wiki)
+## Go To The [Documentation and Reference](https://github.com/Blizzard/katana-assets/wiki) in the Wiki
 
 [Katana](https://www.foundry.com/products/katana) is a software application from [The Foundry](https://www.foundry.com/) for managing, surfacing, and rendering complicated scenes in studio pipelines. It was initially developed as part of Sony Pictures Imageworks. Foundry released version 1.0 in 2011.
 
